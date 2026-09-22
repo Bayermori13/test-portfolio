@@ -13,7 +13,7 @@ git push -u origin main
 ### ابزارها:
 - Git
 - GitHub
-
+- moza
 
 git config --global user.name "morteza neysi"
 git config --global user.email "moribayer9@gmail.com"
